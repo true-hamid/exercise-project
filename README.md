@@ -44,7 +44,6 @@ https://jsonplaceholder.typicode.com/photos
 
 #### Expectation
 - To be able to call an API which will return an array of objects with certain data
-- 
 ### 2. Build Gallery screen
 #### Package which should be used
 - Any
